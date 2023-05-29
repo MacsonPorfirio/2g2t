@@ -23,18 +23,46 @@
     width: 100%;
     background-color: blueviolet;
 }
-.info-filme 
+.info-filme {
 width: 100%;
 background-color: blueviolet
+
 }
-.info-filme-retro
+.info-filme-retro{
 width: 100%;
 background-color: blueviolet;
 }
-.info-destaque
+
+.info-destaque{
  width: 100%;
  background-color: blueviolet;
-]
+}
+.img-estilo {
+    width: 100%;
+}
+
+@media screen and (min-widht: 768px) {
+    .menu {
+        height: 120px;
+        background-color: lime;
+    }
+    .conteudo {
+        display: flex;
+    }
+
+}
+@media screen and (min-widht: 1024px) {
+    .menu {
+        height: 200px;
+        background-color: rgb(23, 24, 22);
+    }
+    .conteudo {
+        display: grid;
+    }
+
+}
+
+
 
 
     
