@@ -6,7 +6,7 @@
     --cor-fundo: rgb(7,2,255);
     --cor-fonte: rgb(255,230,0);
     --cor-hover: rgb(89,87,219);
-
+    --cor-clara-fundo: 
 }
 a{
     text-decoration: none;
@@ -127,3 +127,4 @@ ul {    width: 100%;
         display: grid;
     }
 }
+*falta
